@@ -127,3 +127,46 @@ button{
     padding-top: 45px;
 }
 
+/* .........start blog section...  */
+
+.blog{
+    height: 40vh;
+    width: 1000px;
+    margin:30%;
+    margin-top: 0px;
+
+
+}
+
+.blog_head_p{
+    text-align: center;
+    font-size: 22px;
+}
+
+.blog_cards{
+    gap: 20px;
+    padding-top: 35px;
+    display: flex;
+    flex-direction: raw;
+    flex-wrap: wrap;
+}
+
+.blog_card{
+    text-align: center;
+    background-color: gray;
+    margin: 25px;
+    width: 250px;
+    height: 400px;
+    align-items: center;
+}
+
+ .blog_heading{
+    padding-top: 25px;
+    font-family: cursive;
+ }
+
+.blog_p{
+    padding-top:90px;
+    font-size: 18px;
+}
+
